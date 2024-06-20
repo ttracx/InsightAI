@@ -1,12 +1,12 @@
 [package]
-name = "nextchat"
+name = "insightai"
 version = "0.1.0"
-description = "A cross platform app for LLM ChatBot."
-authors = ["Yidadaa"]
+description = "Safety Incident AI."
+authors = ["TXaypanya"]
 license = "mit"
 repository = ""
-default-run = "nextchat"
-edition = "2021"
+default-run = "insightai"
+edition = "2024"
 rust-version = "1.60"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
