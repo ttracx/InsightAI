@@ -156,8 +156,6 @@ NodeJS >= 18, Docker >= 20
 
 ## Development
 
-> [简体中文 > 如何进行二次开发](./README_CN.md#开发)
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
 
 Before starting development, you must create a new `.env.local` file at project root, and place your api key into it:
@@ -180,8 +178,6 @@ yarn dev
 ```
 
 ## Deployment
-
-> [简体中文 > 如何部署到私人服务器](./README_CN.md#部署)
 
 ### Docker (Recommended)
 
@@ -223,8 +219,6 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 ## Documentation
 
 > Please go to the [docs][./docs] directory for more documentation instructions.
-
-- [Deploy with cloudflare (Deprecated)](./docs/cloudflare-pages-en.md)
 - [Frequent Ask Questions](./docs/faq-en.md)
 - [How to add a new translation](./docs/translation.md)
 - [How to use Vercel (No English)](./docs/vercel-cn.md)
