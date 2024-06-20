@@ -16,8 +16,6 @@
 
 ## Keep Updated
 
-(./README_CN.md#保持更新)
-
 If you have deployed your own project with just one click following the steps above, you may encounter the issue of "Updates Available" constantly showing up. This is because Vercel will create a new project for you by default instead of forking this project, resulting in the inability to detect updates correctly.
 
 We recommend that you follow the steps below to re-deploy:
@@ -44,8 +42,6 @@ You can star or watch this project or follow author to get release notifications
 
 ## Access Password
 
-(./README_CN.md#配置页面访问密码)
-
 This project provides limited access control. Please add an environment variable named `CODE` on the vercel environment variables page. The value should be passwords separated by comma like this:
 
 ```
@@ -55,8 +51,6 @@ code1,code2,code3
 After adding or modifying this environment variable, please redeploy the project for the changes to take effect.
 
 ## Environment Variables
-
-> [简体中文 > 如何配置 api key、访问密码、接口代理](./README_CN.md#环境变量)
 
 ### `CODE` (optional)
 
